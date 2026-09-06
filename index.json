@@ -3,7 +3,7 @@
         "name": "拷贝漫画",
         "fileName": "copy_manga.js",
         "key": "copy_manga",
-        "version": "1.4.1"
+        "version": "1.4.2"
     },
     {
         "name": "拷贝漫画(多账号)",
@@ -33,7 +33,7 @@
         "name": "nhentai",
         "fileName": "nhentai.js",
         "key": "nhentai",
-        "version": "1.0.9"
+        "version": "1.1.0"
     },
     {
         "name": "紳士漫畫",
@@ -59,8 +59,8 @@
         "name": "MangaDex",
         "fileName": "manga_dex.js",
         "key": "manga_dex",
-        "version": "1.1.0",
-        "description": "Account feature is not supported yet."
+        "version": "1.2.0",
+        "description": "Forum login and comments are supported."
     },
     {
         "name": "爱看漫",
@@ -126,7 +126,7 @@
         "name": "カドコミ",
         "fileName": "comic_walker.js",
         "key": "comic_walker",
-        "version": "1.0.0"
+        "version": "1.0.1"
     },
     {
         "name": "漫画1234",
@@ -144,7 +144,7 @@
         "name": "GoDa漫画",
         "fileName": "goda.js",
         "key": "goda",
-        "version": "1.0.0"
+        "version": "1.2.1"
     },
     {
         "name": "18漫画",
@@ -194,5 +194,12 @@
         "key": "happy",
         "version": "1.0.0",
         "description": "中国大陆及日韩IP无法访问，遇到403可以尝试切换其他地区网络"
+    },
+    {
+        "name": "MYCOMIC",
+        "fileName": "mycomic.js",
+        "key": "mycomic",
+        "version": "1.1.0",
+        "description": "mycomic.com漫画源, 遇到Cloudflare验证请在源设置中登录"
     }
 ]
